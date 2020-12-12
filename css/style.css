@@ -1,0 +1,40 @@
+*{
+    padding: 0;
+    margin: 0;
+    scroll-margin: none;
+}
+
+   body{
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    background-size: 100% 100%;
+  
+   }
+.head1{
+    padding-left: 42%;
+    padding-top: 3%;
+}
+.logform{
+    padding-top: 4%;
+    width: 200%;
+    height: 20em;
+    opacity: transparent;
+}
+.label1{
+    width: 10em;
+    height: 2em;
+    font-size: larger;
+
+}
+.inputs{
+    width: 15em;
+    height: 2.5em;
+}
+.button{
+    width: 10em;
+    height: 2em;   
+}
+.submit{
+    font-size: large;
+    background-color: white;
+}
